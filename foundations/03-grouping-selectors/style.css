@@ -1,0 +1,17 @@
+/* style.css*/
+/* in future, the names of classes should describe the outcome it is trying to achieve when taking every aspect into consideration */
+
+.first,
+.second {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
+
+.first {
+    background-color: black;
+    color: white;
+}
+
+.second {
+    background-color: yellow;
+}
